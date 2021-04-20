@@ -9,6 +9,9 @@ gem 'font-awesome-sass', '~> 5.12.0'
 gem 'simple_form'
 
 # Gemfile
+gem 'cloudinary', '~> 1.16.0'
+
+# Gemfile
 gem 'dotenv-rails', groups: [:development, :test]
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails', branch: 'main'
